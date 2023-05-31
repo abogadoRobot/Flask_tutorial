@@ -17,8 +17,8 @@ JOBS = [
   },
   {
     'id': 3,
-    'title': 'Aweonador',
-    'location': 'Banana',
+    'title': 'Aweonador PRO',
+    'location': 'Banana DOMINICANA',
     'salary': '1 pesos'
   },
   {
